@@ -32,6 +32,7 @@ Instead of using pre-built audio tools that hide how everything works, I built t
 #### What It Looks Like
 ![Acoustic Comparison](acoustic_comparison.png)
  
+ 
 
 #### What Happens If the Window Is Too Small?
 
