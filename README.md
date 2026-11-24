@@ -30,7 +30,7 @@ Instead of using pre-built audio tools that hide how everything works, I built t
     * **Why it matters:** Tiny, rapid timing wobbles between wave cycles are a classic marker of vocal strain or physiological arousal.
 
 #### What It Looks Like
-
+![Acoustic Comparison](acoustic_comparison.png)
  
 
 #### What Happens If the Window Is Too Small?
